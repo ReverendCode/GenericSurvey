@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8538210249",
+    "firebase_url": "https://genericsurvey-beb28.firebaseio.com",
+    "project_id": "genericsurvey-beb28",
+    "storage_bucket": "genericsurvey-beb28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8538210249:android:77339907711f3dee",
+        "android_client_info": {
+          "package_name": "com.vaporware.surveyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8538210249-t4hf11am7smrqoiepcvdrl1pvdh6ldq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaporware.surveyapp",
+            "certificate_hash": "b8b66e75feb5f6b6889a66ae47c5137f78a3fe7b"
+          }
+        },
+        {
+          "client_id": "8538210249-8pc2mmovqn6nldjolvoh1gc32mvo3j3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-XHAU_a5gYUwmoFfd0FQtEPzk6IeaIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8538210249-8pc2mmovqn6nldjolvoh1gc32mvo3j3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

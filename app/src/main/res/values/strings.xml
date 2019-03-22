@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="checkbox_example">CheckBox Example</string>
+    <string name="sample_edit_text">Null</string>
+</resources>
